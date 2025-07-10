@@ -39,3 +39,6 @@ yarn-error.*
 .env
 
 app-example
+
+# Ignore Yahoo API credentials
+yahooConfig.js

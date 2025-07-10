@@ -8,7 +8,7 @@
     "scheme": "weeklyleaguepickemapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#1f366a"
     },
